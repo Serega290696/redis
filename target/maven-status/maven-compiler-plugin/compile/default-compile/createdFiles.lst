@@ -1,0 +1,6 @@
+com\beltser\redis\RedisJedis.class
+com\beltser\redis\FrontController.class
+com\beltser\redis\Student$Gender.class
+com\beltser\redis\StudentRepository.class
+com\beltser\redis\StudentRepositoryImpl.class
+com\beltser\redis\Student.class
